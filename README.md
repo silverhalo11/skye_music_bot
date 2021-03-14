@@ -1,4 +1,5 @@
-# sye_music_bot — The third open-source PyTgCalls based Pyrogram bot to play music in voice chats
+# sye_music_bot 
+The third open-source PyTgCalls based Pyrogram bot to play music in voice chats
 
 ## Note
 
