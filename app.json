@@ -1,5 +1,5 @@
 {
-    "name": "skye_music_bot",
+    "name": "evilbott",
     "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
     "keywords": [
       "telegram",
@@ -7,7 +7,7 @@
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/silverhalo11/skye_music_bot,
+    "repository": "https://github.com/silverhalo11/skye_music_bot",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -28,7 +28,7 @@
       },
       "BOT_NAME": {
         "description": " Add your bot name by default it is êvilẞø†.",
-        "value": "skye_music_bo†"
+        "value": "êvilẞø†"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
