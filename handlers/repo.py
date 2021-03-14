@@ -20,7 +20,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 REPO 💙", url="https://github.com/silverhalo11/skye_music_bot"
                     )
                 ],
                 [
@@ -52,7 +52,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💙 REPO 💙", url="https://github.com/jattpawan/evilbot"
+                        "💙 REPO 💙", url="https://github.com/silverhalo11/skye_music_bot"
                     )
                 ],
                 [
