@@ -27,8 +27,8 @@
         "value": ""
       },
       "BOT_NAME": {
-        "description": " Add your bot name by default it is êvilẞø†.",
-        "value": "êvilẞø†"
+        "description": " Add your bot name by default it is skyemusic.",
+        "value": "skyemusic"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
