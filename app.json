@@ -8,7 +8,7 @@
       "productivity"
     ],
     "repository": "https://github.com/silverhalo11/skye_music_bot",
-    "stack": "container",
+    "heroku-20": "container",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org!",
